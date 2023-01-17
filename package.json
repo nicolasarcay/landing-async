@@ -1,0 +1,27 @@
+{
+  "name": "landing-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasarcay/landing-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasarcay/landing-async/issues"
+  },
+  "homepage": "https://github.com/nicolasarcay/landing-async#readme",
+  "dependencies": {
+    "fetch-node": "^0.0.1",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
